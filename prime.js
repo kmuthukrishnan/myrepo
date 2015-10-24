@@ -29,9 +29,7 @@ var firstkprime = function(kprime) {
 	return arr;
 };
 
-// set the number of primes to be printed
 var kprime = 20;
-
-//print the first k primes
 console.log("The first "+ kprime + " prime numbers are:");
 console.log(firstkprime(kprime));
+console.log("Krithika is awesome!");
